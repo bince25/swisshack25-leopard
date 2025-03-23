@@ -30,14 +30,14 @@ Please provide data here.
 
 ## Judging Criteria:
 
-Creativity (30%)
-Visual design and product (40%)
-Feasibility (30%)
+* Creativity (30%)
+* Visual design and product (40%)
+* Feasibility (30%)
 
 ## Point of Contact:
 
-Marco Neri - Head of Developer Relations at Ripple
-Maxime Dienger - Developer Advocate
+* Marco Neri - Head of Developer Relations at Ripple
+* Maxime Dienger - Developer Advocate
 
 ## Price - the winning team members will each receive:
 Opportunity to present the solution this to ripple executives
