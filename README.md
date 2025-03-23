@@ -1,7 +1,5 @@
 # RIPPLE
-# CHALLENGE TITLE
-
-Introduce Case here. 
+# Real-World Finance with RLUSD
 
 XRP Ledger addresses the need for an accessible platform for the  issuance and management of digital assets . RLUSD is one of those natively issued assets by Ripple fully backed by a segregated reserve of cash and cash equivalents and redeemable 1:1 for US dollars
 
