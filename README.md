@@ -10,24 +10,22 @@ The challenge: Show how RLUSD can transform finance with real use cases
 
 ## Expected Outcome:
 
-Prototype enabling payments using RLUSD on XRP Ledger or Ethereum
+Prototype enabling payments using RLUSD on XRP Ledger Testnet or Ethereum Sepolia. Transactions should be able to be verified on blockchain explorers
 
 ## Technology 
 
-Faucet : tryRLUSD.com
+You an start by getting some RLUSD tokens on testnet
+Faucet : tryrlusd.com
 
+## Code examples
 
-## Deep Dive Slides:
-
-Insert Deep Dive Slides here:
+Learn more via code examples
+https://github.com/RippleDevRel/xrpl-js-python-simple-scripts 
 
 ## Further Information:
 
-Insert further information here
-
-## Resources:
-
-Please provide data here.
+Explore all resources
+Resource hub: https://linktr.ee/rippledevrel 
 
 ## Judging Criteria:
 
@@ -37,8 +35,13 @@ Please provide data here.
 
 ## Point of Contact:
 
+* Maxime Dienger - Developer Advocate at Ripple
+* Maria Shodunke - Technical Writer at Ripple
+* Ashray Chowdhry - Software Engineer at Ripple
 * Marco Neri - Head of Developer Relations at Ripple
-* Maxime Dienger - Developer Advocate
+
+
+
 
 ## Price - the winning team members will each receive:
 Opportunity to present the solution this to ripple executives
