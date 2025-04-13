@@ -1,0 +1,15 @@
+flask
+flask-cors
+flask-socketio
+python-socketio
+python-engineio
+simple-websocket
+requests
+python-dotenv
+crewai
+openai
+langchain-openai
+langchain
+langchain-core
+gunicorn
+eventlet
